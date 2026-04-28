@@ -1,0 +1,13 @@
+{
+  "compliance_col": "gpt_label",
+  "total_samples": 500,
+  "compliance_rate_offtopic": 0.78,
+  "compliance_rate_ontopic": 0.956,
+  "guardrail_accuracy": 0.588,
+  "guardrail_f1": 0.3481,
+  "false_positive_rate": 0.044,
+  "true_positives": 55,
+  "false_negatives": 195,
+  "true_negatives": 239,
+  "false_positives": 11
+}
