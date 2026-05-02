@@ -23,7 +23,6 @@ __pycache__/
 # =========================
 .DS_Store
 **/.DS_Store
-s3_probe/.DS_Store
 
 # =========================
 # IDE/editor junk
