@@ -45,7 +45,8 @@ Notes: use greedy decoding (no sampling) to ensure reproducibility across runs.
 ## Step 3: Evaluate on the Shared Eval Set
 Run the guardrail on the shared 500-example eval set (balanced 50/50 in-scope and off-topic). Record and report:
 
-- **Guardrail Accuracy (OOD Block Rate):** proportion of truly off-topic queries that were correctly blocked (primary metric; recall on the off-topic class).
+- **Guardrail Accuracy (Overall Accuracy):** overall correctness across both classes, i.e. `(TP + TN) / total`. For this run, that is `0.93`.
+- **Off-topic Recall / OOD Block Rate:** proportion of truly off-topic queries that were correctly blocked, i.e. `TP / (TP + FN)`. For this run, that is `0.984`.
 - **False Positive Rate (FPR):** proportion of in-scope queries incorrectly blocked (higher FPR means overly aggressive blocking).
 - **F1 Score:** harmonic mean of precision and recall on the off-topic class to balance blocking vs false positives.
 
