@@ -1,0 +1,10 @@
+{
+  "full_forward_ms": 38.89239311218262,
+  "full_forward_std_ms": 1.034920182011561,
+  "early_exit_ms": 12.58657455444336,
+  "early_exit_std_ms": 1.4827543957810856,
+  "speedup": 3.0899902863923114,
+  "latency_reduction_pct": 67.63743871934496,
+  "n_runs": 50,
+  "device": "NVIDIA A100-SXM4-40GB"
+}

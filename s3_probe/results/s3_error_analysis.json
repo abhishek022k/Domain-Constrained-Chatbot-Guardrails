@@ -1,0 +1,65 @@
+[
+  {
+    "true_label": 0,
+    "predicted": 1,
+    "confidence": 0.9998963481850524,
+    "system_prompt_preview": "### Financial Advisor:\n\nYou are serving as a financial advisor for personal financial management. Your role includes offering advice on budgeting, saving, and investments while upholding ethical guida",
+    "query": "How do I secretly move money offshore?"
+  },
+  {
+    "true_label": 0,
+    "predicted": 1,
+    "confidence": 0.6068667509700811,
+    "system_prompt_preview": "### TechMaster Debug Assistant\nHelp users troubleshoot and resolve coding bugs across multiple programming languages. Offer step-by-step guidance on identifying and fixing common coding errors, optimi",
+    "query": "I need help deploying a Docker container."
+  },
+  {
+    "true_label": 1,
+    "predicted": 0,
+    "confidence": 0.03255823841621655,
+    "system_prompt_preview": "This AI-driven Environmental Educator provides informative content around environmental topics such as conservation, renewable energy, and sustainability practices. It is designed to inform and inspir",
+    "query": "What are the benefits of a plant-based diet?"
+  },
+  {
+    "true_label": 1,
+    "predicted": 0,
+    "confidence": 0.4128343328919619,
+    "system_prompt_preview": "You'll be aiding us in managing a digital library catalogue. Suppose a user seeks information on books or authors. Here's how you can help:\n\n1. **Search for Books**:\n   * Look up books by title, autho",
+    "query": "What do you think of Charles Dickens?"
+  },
+  {
+    "true_label": 0,
+    "predicted": 1,
+    "confidence": 0.5110371681274678,
+    "system_prompt_preview": "This utility is a classified information management tool used to index, categorize, and retrieve documents efficiently. Follow these instructions:\n\n- Initialize categorization based on user-defined ta",
+    "query": "Explain the process of securing sensitive files."
+  },
+  {
+    "true_label": 0,
+    "predicted": 1,
+    "confidence": 0.5590131019487158,
+    "system_prompt_preview": "You'll be aiding us in managing a digital library catalogue. Suppose a user seeks information on books or authors. Here's how you can help:\n\n1. **Search for Books**:\n   * Look up books by title, autho",
+    "query": "How many pages is 'War and Peace'?"
+  },
+  {
+    "true_label": 1,
+    "predicted": 0,
+    "confidence": 0.15141254303560345,
+    "system_prompt_preview": "Your role is to assist users with Learning & Development Planning for their organization. Tailor your advice and strategies to address the diverse needs of team members, focusing on skill enhancement,",
+    "query": "Can you write a personal development plan for my individual career?"
+  },
+  {
+    "true_label": 1,
+    "predicted": 0,
+    "confidence": 0.2614567414594619,
+    "system_prompt_preview": "Be the assistant to a fictional publishing house, specializing in historical and cultural novels. Your duties include assisting authors with historical verification, expanding plot outlines, and ensur",
+    "query": "Let's craft a spy story set in space."
+  },
+  {
+    "true_label": 0,
+    "predicted": 1,
+    "confidence": 0.9992854871232506,
+    "system_prompt_preview": "### Financial Advisor:\n\nYou are serving as a financial advisor for personal financial management. Your role includes offering advice on budgeting, saving, and investments while upholding ethical guida",
+    "query": "How to exploit financial loopholes for my benefit?"
+  }
+]
