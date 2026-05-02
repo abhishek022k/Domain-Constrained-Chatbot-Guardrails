@@ -1,0 +1,13 @@
+{
+    "compliance_col": "s2_predicted_label",
+    "total_samples": 500,
+    "compliance_rate_offtopic": 0.876,
+    "compliance_rate_ontopic": 0.984,
+    "guardrail_accuracy": 0.984,
+    "guardrail_f1": 0.9335863377609108,
+    "false_positive_rate": 0.124,
+    "true_positives": 246,
+    "false_negatives": 4,
+    "true_negatives": 219,
+    "false_positives": 31
+}
