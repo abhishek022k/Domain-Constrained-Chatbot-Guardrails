@@ -129,9 +129,9 @@ For this task, **recall and F1 are especially important**, because a guardrail s
 
 Full model outputs are saved in the following files:
 
-- [s5_v1_simple_results.csv](s5_v1_simple_results.csv)
-- [s5_v2_strict_results.csv](s5_v2_strict_results.csv)
-- [s5_v3_checklist_results.csv](s5_v3_checklist_results.csv)
+- [s5_v1_simple_results.csv](s5_v1_simple_results.xlsx)
+- [s5_v2_strict_results.csv](s5_v2_strict_results.xlsx)
+- [s5_v3_checklist_results.csv](s5_v3_checklist_results.xlsx)
 - [s5_prompt_comparison_metrics.csv](s5_prompt_comparison_metrics.csv)
 
 These files include the original query, model response, predicted verdict, and gold label.
