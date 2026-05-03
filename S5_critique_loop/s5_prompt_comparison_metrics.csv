@@ -1,0 +1,4 @@
+prompt,n,accuracy,precision_block_ood,recall_block_ood,f1_block_ood,false_positive_rate_over_refuse,missed_ood_rate,parse_errors
+v1_simple,100,0.85,0.926829268292683,0.76,0.8351648351648352,0.06,0.24,7
+v2_strict,100,0.61,0.627906976744186,0.54,0.5806451612903226,0.32,0.46,44
+v3_checklist,100,0.68,0.95,0.38,0.5428571428571428,0.02,0.62,33
