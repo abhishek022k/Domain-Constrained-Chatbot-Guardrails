@@ -88,7 +88,7 @@ Are 2000 training rows enough or should we increase that to 5k/10k?
 ---
 
 ## Answer
-After discussing with Fred, we have decided to use Approach A, as it is a more mixed dataset. The output responses that are missing in Approach A can be generated at a low cost as well.
+After discussing with Prof. Fred, we have decided to use Approach A, as it is a more mixed dataset. The output responses that are missing in Approach A can be generated at a low cost as well.
 
 Training and test size needs to be small but we can decide after training if we need 2k/5k/10k samples. Eval set can be 500.
 
