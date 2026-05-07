@@ -1,0 +1,2 @@
+Strategy,N,Guardrail Accuracy,False Positive Rate,F1 Score,Avg Latency (s),Malformed Outputs
+S2: Prompted LLM + Self-Reminder,500,0.984,0.124,0.934,11.19,4
