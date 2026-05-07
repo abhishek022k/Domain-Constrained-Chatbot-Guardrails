@@ -9,18 +9,5 @@
   "true_positives": 242,
   "false_negatives": 8,
   "true_negatives": 237,
-  "false_positives": 13,
-  "strategy": "S1_input_classifier",
-  "model_name": "roberta-base",
-  "training_samples": 4500,
-  "n_offtopic": 250,
-  "n_ontopic": 250,
-  "recall_offtopic": 0.968,
-  "precision_offtopic": 0.949,
-  "recall_ontopic": 0.948,
-  "precision_ontopic": 0.9673,
-  "macro_f1": 0.958,
-  "matthews_corrcoef": 0.9162,
-  "roc_auc": 0.9908,
-  "average_precision": 0.9895
+  "false_positives": 13
 }
