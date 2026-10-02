@@ -6,7 +6,7 @@ Abhishek Sharma, Chang Zhou, Kautsya Kanu, Keshav Handa, Nabanita Bag, Naveen Mu
 ---
 
 ## Idea and motivation
-Deployed LLM chatbots routinely violate their intended domain boundaries. Amazon Rufus, a shopping assistant, generates web-scraping scripts on request[1], and multilingual prompts bypass its safety filters roughly 80% of the time because fine-tuning was English-only[2]. GitHub Copilot's safety filters can be disabled by prepending an agreeable tone[3]. These are not exotic jailbreaks; they are trivial, documented, and largely unpatched.
+Deployed LLM chatbots routinely violate their intended domain boundaries. Amazon Rufus, a shopping assistant, generates web-scraping scripts on request, and multilingual prompts bypass its safety filters roughly 80% of the time because fine-tuning was English-only. GitHub Copilot's safety filters can be disabled by prepending an agreeable tone. These are not exotic jailbreaks; they are trivial, documented, and largely unpatched.
 
 Our core question is:  
 **How do different intervention strategies perform compared to our baseline for preventing out-of-domain LLM outputs?**
@@ -34,7 +34,7 @@ We plan to evaluate a few of these strategies based on the time available.
 ## Methodology
 
 **Model:**  
-An open source model like Llama-3.1-8B-instruct (8B parameters, 32 layers)
+An open source model: Llama-3.1-8B-instruct (8B parameters, 32 layers)
 
 **Dataset:**  
 We plan to use Off-topic Dataset or Bitext Customer Support Dataset. If required, we plan to generate synthetic data using SoTA LLMs.
